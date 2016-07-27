@@ -2,7 +2,7 @@
 This repositories is forked from https://github.com/singhalprerana/SST_data_extraction and I have modified something.
 It is used to create train, test and dev dataset for stanfordSentimentTreebank dataset. It also create phrase train dataset.
 
-
+-------------------------------------------------------------------------------------
 
 
 
